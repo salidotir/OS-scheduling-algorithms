@@ -7,7 +7,7 @@ OS scheduling algorithms including IO
 3. SRT
 4. SJF
 
-Input is read from a .csv file ith format below:
+Input is read from a '.csv' file ith format below:
 p-id, arrival-time, cpu-burst-1, io-time, cpu-burst-2
 
-Output is 4.jpg files that shows the gantt chart for each of algorithms.
+Output is 4 '.jpg' files that shows the gantt chart for each of algorithms.
